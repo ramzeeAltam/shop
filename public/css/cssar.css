@@ -1,0 +1,130 @@
+body{
+    background-color: #eee;
+    font-size: 14px;
+    direction: rtl;
+}
+/*bootstrap all*/
+.navbar-nav:hover{
+  cursor: pointer;
+  }
+  .table td, .table th {
+ 
+    vertical-align: middle;
+  }
+
+
+/*css only*/
+
+.btn-add{
+    background-color: royalblue;
+    color: #fff;
+    display: block;
+    width: 100px;
+  }
+ 
+
+ 
+ 
+
+form label{
+    text-align: right;
+}
+
+  /*///////css all///////*/
+.bton{
+    background-color: red;
+    }
+.cont-alert{
+    max-width: 860px;
+    margin: auto;
+padding-top: 20px;
+  }
+  .cont-alert .alert{
+    margin-bottom: 0.3rem;
+  }
+   
+  .t-show{
+    color: #4f4f4f;
+   
+  } 
+  .show-table{
+    max-width: 80%;
+    margin: auto;
+  } 
+ h1 {
+   font-size: 35px;
+   font-weight: bold;
+   color:#999;
+   margin-top: 20px;
+   margin-bottom: 30px;
+ }
+ .table thead{
+ color: #fff;
+background-color: #555;
+ }
+
+ .home-stat .statstic{
+   background-color: red;
+   font-size: 15px;
+   padding: 15px;
+   border: 1px #333;
+   border-radius: 10px;
+   margin-top: 1px;
+ }
+ .home-stat .statstic span{
+   display: block;
+  font-size: 20px;
+ }
+
+ .leastat{
+  margin-top: 30px;
+  padding-top: 20px;
+ }
+/*bootstrap   css*/
+.dropdown-toggle::after{
+  margin-right: 3px;
+}
+.collapse ul:first-of-type{
+  margin-left: auto;
+}
+.show,.collapsing{
+  text-align: right;
+  right: auto;
+  left: 0;
+}
+.alert{
+  text-align: right;
+} 
+.table td  {
+  padding: .45rem;
+}
+.alert{
+    
+    padding: 0.35rem 0.15rem;
+    margin-bottom: 0.5rem;
+    font-size: 12px;
+}
+.dropdown-menu {
+font-size:1em ;
+background-color: #f4f4f4;
+color:#333;
+margin: 0.5rem 0 0;
+padding: 0px;
+}
+.dropdown-menu a:hover {
+   
+  background-color: #007bff;
+   
+  }
+ /*bootstrap   css*/
+
+@media (min-width:567px) {
+  .offset-sm-2 {
+    margin-right: 16.666667%;
+  }
+}
+@media (max-width:567px) {
+ .mt-x1-3{
+   margin-top: 3px;
+ }
+}

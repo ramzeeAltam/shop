@@ -1,0 +1,135 @@
+body{
+    background-color: #eee;
+    font-size: 14px;
+}
+/* bootstrap all*/
+.table td, .table th {
+ 
+  vertical-align: middle;
+}
+
+
+
+/*css*/
+.bton{
+    background-color: red;
+    }
+.cont-alert{
+    max-width: 860px;
+    margin: auto;
+padding-top: 20px;
+  }
+  .cont-alert .alert{
+    margin-bottom: 0.3rem;
+  }
+   
+  .t-show{
+    color: #4f4f4f;
+   
+  } 
+  .show-table{
+    max-width: 80%;
+    margin: auto;
+  }
+  .table td  {
+    padding: 0px !important;    
+  }
+
+    .table th {
+      padding: 0px 3px !important; 
+}
+
+  .btn-add{
+    background-color: royalblue;
+    color: #fff;
+    display: block;
+    width: 100px;
+  }
+
+ h1 {
+   font-size: 35px;
+   font-weight: bold;
+   color:#999;
+   margin-top: 20px;
+   margin-bottom: 30px;
+ }
+
+ /* now*/
+ .home-stat .statstic{
+  background-color: red;
+  font-size: 15px;
+  padding: 15px;
+  border: 1px #333;
+  border-radius: 10px;
+  margin-top: 1px;
+}
+.home-stat .statstic span{
+  display: block;
+ font-size: 20px;
+}
+.home-stat .total-mem{
+  background-color:#9b59b6 ;
+}
+
+
+.home-stat .pending{
+  background-color:#e67e22 ;
+}
+.home-stat .total-item{
+  background-color:#d35400 ;
+}
+.home-stat .total-comm{
+  background-color:#1abc9c ;
+}
+.leastat{
+  margin-top: 30px;
+  padding-top: 20px;
+ }
+  
+ 
+ 
+ .leta_ul .list-group-item{
+  padding: 3px 5px;  
+  font-weight: 501;
+  border-radius: 10px;
+ }
+ .leta_ul .list-group-item:nth-child(odd){
+   background-color: #eee;
+ }
+ .leta_ul .badge-delete{
+margin: 0px 2px;
+ }
+
+
+
+/*bootstrap   css*/
+.table thead{
+  color: #fff;
+ background-color: #555;
+  }
+.alert{
+    
+    padding: 0.35rem 0.15rem;
+    margin-bottom: 0.5rem;
+    font-size: 12px;
+}
+.dropdown-menu {
+font-size:1em ;
+background-color: #f4f4f4;
+color:#333;
+margin: 0.5rem 0 0;
+}
+
+/*
+#9b59b6
+#e67e22
+#d35400
+#f39c12
+#2c3e50
+#1abc9c
+#27ae60
+*/
+ 
+
+ /*bootstrap   css*/
+
